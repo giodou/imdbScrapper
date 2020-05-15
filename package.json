@@ -1,0 +1,23 @@
+{
+  "name": "imdbscrapper",
+  "version": "1.0.0",
+  "description": "A web Crawler for IMDB movies information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giodou/imdbScrapper.git"
+  },
+  "author": "Giovane Airton Timm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giodou/imdbScrapper/issues"
+  },
+  "homepage": "https://github.com/giodou/imdbScrapper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request-promise": "^4.2.5"
+  }
+}
